@@ -18,6 +18,9 @@
     },
     "cantidad": 3
   }
+
 ]
+
+  
 **Verificar el descuento:** 
 * url: http://localhost:8080/factura/1/total
