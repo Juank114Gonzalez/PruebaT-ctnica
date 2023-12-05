@@ -3,9 +3,8 @@
 ## Pruebas en postman:
 
 **Crear:**
-url: http://localhost:8080/realizar-compra/1
-body: 
-´´´
+* url: http://localhost:8080/realizar-compra/1
+* body:  
 [
   {
     "producto": {
@@ -20,6 +19,5 @@ body:
     "cantidad": 3
   }
 ]
-´´´
 **Verificar el descuento:** 
-url: http://localhost:8080/factura/1/total
+* url: http://localhost:8080/factura/1/total
